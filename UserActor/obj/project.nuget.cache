@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "a0o1rSx7jcxJHRj3KYFxEOxAh8ek4iP6HpDVL+2nii3S7sMAVKMEodSppmvGG27M2BlYyLcvS9p9w4PyAsKHJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\ECommerce\\UserActor\\UserActor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric\\7.1.458\\microsoft.servicefabric.7.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.actors\\4.1.458\\microsoft.servicefabric.actors.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data\\4.1.458\\microsoft.servicefabric.data.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.1.458\\microsoft.servicefabric.data.extensions.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.1.458\\microsoft.servicefabric.data.interfaces.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.1.458\\microsoft.servicefabric.diagnostics.internal.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.1.458\\microsoft.servicefabric.fabrictransport.internal.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.services\\4.1.458\\microsoft.servicefabric.services.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.1.458\\microsoft.servicefabric.services.remoting.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.0\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.0\\microsoft.netcore.app.runtime.win-x64.3.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.0\\microsoft.aspnetcore.app.runtime.win-x64.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

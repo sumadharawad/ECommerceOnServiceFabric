@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.deps.json
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\bin\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.AssemblyInfo.cs
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.dll
+C:\Users\admin\source\repos\ECommerce\UserActor.Interfaces\obj\Debug\netcoreapp3.1\win7-x64\UserActor.Interfaces.pdb

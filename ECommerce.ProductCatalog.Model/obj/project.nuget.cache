@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "BuTKpQaGv/qEfEpMUgIr7WKtr18tvT7JI4wUOLlhFCxvqaryy3lcq7L3q2N/1n911L14b812Hfhtj3NnJ2KHJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\ECommerce\\ECommerce.ProductCatalog.Model\\ECommerce.ProductCatalog.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric\\7.1.458\\microsoft.servicefabric.7.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data\\4.1.458\\microsoft.servicefabric.data.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data.extensions\\4.1.458\\microsoft.servicefabric.data.extensions.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.data.interfaces\\4.1.458\\microsoft.servicefabric.data.interfaces.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.diagnostics.internal\\4.1.458\\microsoft.servicefabric.diagnostics.internal.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.fabrictransport.internal\\4.1.458\\microsoft.servicefabric.fabrictransport.internal.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.services\\4.1.458\\microsoft.servicefabric.services.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.servicefabric.services.remoting\\4.1.458\\microsoft.servicefabric.services.remoting.4.1.458.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
